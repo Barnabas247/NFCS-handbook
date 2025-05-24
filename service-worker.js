@@ -1,8 +1,8 @@
 const CACHE_NAME = 'nfcs-handbook-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/icon.png'
+  'https://yourusername.github.io/nfcs-handbook/',
+  'https://yourusername.github.io/nfcs-handbook/index.html',
+  'https://yourusername.github.io/nfcs-handbook/icon.png'
 ];
 
 self.addEventListener('install', event => {
