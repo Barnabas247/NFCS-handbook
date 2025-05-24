@@ -2,7 +2,7 @@
   "name": "NFCS Handbook",
   "short_name": "NFCS Book",
   "description": "Digital handbook for the National Federation of Catholic Students",
-  "start_url": "/index.html",
+  "start_url": "https://barnabas247.github.io/NFCS-handbook/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#005166",
